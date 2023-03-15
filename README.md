@@ -10,4 +10,24 @@ There are the improvements from my 2015 R version.
 - Multiple filters are added to make sure we can monitor the data and fitting quality.
 - Jupyter notebook is provided in order to monitor the process of each step and the source code is more readable.
 
+If this implementation is useful to you, please cite
+
+```
+@software{HiTS-EQ_python_HCL 2023,
+  author = {Hsuan-Chun Lin},
+  month = {03},
+  title = {{HiTS-EQ python implementation}},
+  url = {},
+  version = {1.0.1},
+  year = {2023}
+}
+```
 # Currently under working
+Please see [HiTS-EQ.ipynb](https://github.com/hsuanchunlin/HiTS-EQ_Python_version/blob/master/HiTS-EQ.ipynb)
+
+For input format, please use
+[input_data.csv](https://github.com/hsuanchunlin/HiTS-EQ_Python_version/blob/master/input_data.csv)
+
+In that file, **f** means real binding fraction.
+
+**[E]** means the enzyme or protein concentration you use when you perform the bindning experiment.
