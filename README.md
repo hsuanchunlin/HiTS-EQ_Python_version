@@ -22,7 +22,18 @@ If this implementation is useful to you, please cite
   year = {2023}
 }
 ```
-# Currently under working
+# Requirements
+
+- python version over 3.8
+- scipy
+- numpy
+- pandas
+- plotly
+- matplotlib
+- seaborn
+
+
+# This project is currently under work
 Please see [HiTS-EQ.ipynb](https://github.com/hsuanchunlin/HiTS-EQ_Python_version/blob/master/HiTS-EQ.ipynb)
 
 For input format, please use
