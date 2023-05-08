@@ -10,6 +10,8 @@ There are the improvements from my 2015 R version.
 ![interactive plot](./img/interaction.png)
 - Multiple filters are added to make sure we can monitor the data and fitting quality.
 - Jupyter notebook is provided in order to monitor the process of each step and the source code is more readable.
+- Now we can compare the results from equation and curve fitting methods. Here is the example by histogram and the result is plotted in natural log form.
+![histogram-results from different methods](./img/histoplot.png)
 
 If this implementation is useful to you, please cite
 
