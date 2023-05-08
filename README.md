@@ -7,6 +7,7 @@ There are the improvements from my 2015 R version.
 
 - Multiple binding fractions are support: before in my R version, once we change the number of binding fractions, e.g. from 4 data points to 6 data points, we need to modify the code to adapt the change. Now in this python version by using Pandas, we don't need to do so. Just import your data in the correct format and enjoy the convenience.
 - Interactive scatter plot is added to make sure we can quick galance the binding of **each** sequence by **plotly**.
+![interactive plot](./img/interaction.png)
 - Multiple filters are added to make sure we can monitor the data and fitting quality.
 - Jupyter notebook is provided in order to monitor the process of each step and the source code is more readable.
 
@@ -33,7 +34,7 @@ If this implementation is useful to you, please cite
 - seaborn
 
 
-# This project is currently under work
+# This project is currently under working.
 Please see [HiTS-EQ.ipynb](https://github.com/hsuanchunlin/HiTS-EQ_Python_version/blob/master/HiTS-EQ.ipynb)
 
 For input format, please use
